@@ -4,8 +4,8 @@
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/program_mid/stream.m3u8
 #EXTINF:-1 group-title="Free to Air" tvg-logo="http://www.i.2nz.au/c44.png",C44 Adelaide
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/program_mid/stream.m3u8
-#EXTINF:-1 group-title="Free to Air" tvg-logo="http://www.i.2nz.au/channel7.png",Channel 7
-https://npc.cdn.7livecloud.io/hls/live/SYD1/master_2500/master_2500_14120234-185376495.ts?Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2ODQ3MDcxN30sIkRhdGVHcmVhdGVyVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY4Mzg0MzE3fX19XX0_&Signature=JG4cTlVm2loisoTmROSUdK3PN1fDT~fTN-x3hYm6~ize38D2W2QuemAdlA8njAnaxP2jtbdj1Rc69ONdx4HIwdRkW-tQKCPPV4hGbU95te-4xSEgTLNFIB3Wi6zxJlNzSGpCyaskn1eG77D9WmebCJwXtXkQANIAp73c24IhPhAiZnZZ-bbdb~jImatjjB1B6D9AiGmrl~BWI6N4kXe0XL5Si9iLelahZeAQBA6kfML4JKX5ERBokIw2ULyU-dAMcCqh9CDmtSt3-XPmakRmFDKhFCNOzOW3EwkAnk5czWCJCNu3Il14Q8lo47ukYNUX97ABkHxkmD1Xqul2R-h~1Q__&Key-Pair-Id=APKAIOT4M6KN6CQOAWEQ
+#EXTINF:-1 group-title="Free to Air" tvg-logo="http://www.i.2nz.au/channel9.png",Channel 9
+https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master1.m3u8
 
 #EXTINF:-1 group-title="News", tvg-logo="http://www.i.2nz.au/tickertv.png",Ticker News
 https://vidgyormedia.pc.cdn.bitgravity.com/ticker-origin/live_1080p/chunks.m3u8
