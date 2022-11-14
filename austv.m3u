@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="AU" tvg-logo="http://www.i.2nz.au/c31.png",C31 Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/program_mid/stream.m3u8
+#EXTINF:-1 group-title="AU" tvg-logo="http://www.i.2nz.au/c44.png",C44 Adelaide
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/program_mid/stream.m3u8
+#EXTINF:-1 group-title="AU",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="AU",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="AU",Angel TV
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelaustralia_all/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="AU", tvg-logo="http://www.i.2nz.au/tickertv.png",Ticker News
+https://vidgyormedia.pc.cdn.bitgravity.com/ticker-origin/live_1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="CAMs", tvg-logo="http://www.i.2nz.au/cam.png",Bundaberg (AU)
+https://camera.ezi-web.com.au/stream1.mjpg
