@@ -1,9 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.i.2nz.au/c31.png",C31 Melbourne
+#EXTINF:-1 group-title="Free to Air" tvg-logo="http://www.i.2nz.au/c31.png",C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/program_mid/stream.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.i.2nz.au/c44.png",C44 Adelaide
+#EXTINF:-1 group-title="Free to Air" tvg-logo="http://www.i.2nz.au/c44.png",C44 Adelaide
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/program_mid/stream.m3u8
+#EXTINF:-1 group-title="Free to Air" tvg-logo="http://www.i.2nz.au/channel7.png",Channel 7
+https://csm-e-cen7ausw1live102-0b5d7de22815f844f.tls1.yospace.com/csm/live/361719716/5.m3u8?&&externalId=SYD1CF&ppId=null&vid=5652239841001&pp=csai-web&yo.pp=UG9saWN5PWV5SlRkR0YwWlcxbGJuUWlPbHQ3SWtOdmJtUnBkR2x2YmlJNmV5SkVZWFJsVEdWemMxUm9ZVzRpT25zaVFWZFRPa1Z3YjJOb1ZHbHRaU0k2TVRZMk9EUTNNRGN4TjMwc0lrUmhkR1ZIY21WaGRHVnlWR2hoYmlJNmV5SkJWMU02UlhCdlkyaFVhVzFsSWpveE5qWTRNemcwTXpFM2ZYMTlYWDBfJlNpZ25hdHVyZT1KRzRjVGxWbTJsb2lzb1RtUk9TVWRLM1BOMWZEVH5mVE4teDNoWW02fml6ZTM4RDJXMlF1ZW1BZGxBOG5qQW5heFAyanRiZGoxUmM2OU9OZHg0SEl3ZFJrVy10UUtDUFBWNGhHYlU5NXRlLTR4U0VnVExORklCM1dpNnp4SmxOelNHcEN5YXNrbjFlRzc3RDlXbWViQ0p3WHRYa1FBTklBcDczYzI0SWhQaEFpWm5aWi1iYmRifmpJbWF0ampCMUI2RDlBaUdtcmx-QldJNk40a1hlMFhMNVNpOWlMZWxhaFplQVFCQTZrZk1MNEpLWDVFUkJva0l3MlVMeVUtZEFNY0NxaDlDRG10U3QzLVhQbWFrUm1GREtoRkNOT3pPVzNFd2tBbms1Y3pXQ0pDTnUzSWwxNFE4bG80N3VrWU5VWDk3QUJrSHhrbUQxWHF1bDJSLWh-MVFfXyZLZXktUGFpci1JZD1BUEtBSU9UNE02S042Q1FPQVdFUQ&yo.pdt=sync&platformType=web&used=null&deviceId=71aa8979-75b0-4393-ad93-239d368ed79d&custParams=rc%25253D705%252526seriesid%25253DTMSW&yo.hb=3500&yo.rl=1&ppId=null&vid=5652239841001&optinAdTracking=0&appId=7plus&deviceType=web&optinDeviceType=&videoType=live&yo.ac=false&tvid=null&yo.oh=Y3NtLWUtbjdhdXMtZWIudGxzMS55b3NwYWNlLmNvbQ%3D%3D&yo.sl=4&advertId=null&accountId=5650355166001&rc=705&uaId=null&yo.t.pf=8000&ozid=d9f94c11-e71a-46a8-9c72-fbce1d17b4da&pc=1000&yo.br=true&yo.js=7385BE32B47DD7537A6E12DAE7F51A1A.csm-e-cen7ausw1live102-0b5d7de22815f844f.tls1.yospace.com
 
 #EXTINF:-1 group-title="News", tvg-logo="http://www.i.2nz.au/tickertv.png",Ticker News
 https://vidgyormedia.pc.cdn.bitgravity.com/ticker-origin/live_1080p/chunks.m3u8
