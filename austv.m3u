@@ -1,17 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="AU" tvg-logo="http://www.i.2nz.au/c31.png",C31 Melbourne
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.i.2nz.au/c31.png",C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/program_mid/stream.m3u8
-#EXTINF:-1 group-title="AU" tvg-logo="http://www.i.2nz.au/c44.png",C44 Adelaide
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.i.2nz.au/c44.png",C44 Adelaide
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/program_mid/stream.m3u8
-#EXTINF:-1 group-title="AU",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="AU",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="AU",Angel TV
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelaustralia_all/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="AU", tvg-logo="http://www.i.2nz.au/tickertv.png",Ticker News
+
+#EXTINF:-1 group-title="News", tvg-logo="http://www.i.2nz.au/tickertv.png",Ticker News
 https://vidgyormedia.pc.cdn.bitgravity.com/ticker-origin/live_1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="Religious",Angel TV
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelaustralia_all/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="Sport",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Trace Latina
+https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/cb573d1e786c649098cb3d78d1f84582847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fbe40f43d86af4e7014ac62c43fa83439c8001b3d1d35283438427f346cec7a5888041d3e4275293748ac48f46581fb8b53bfae848a5ce88683595705a347437c980e331caa1e43d2473fbfacab16cfe69a3e1c76a8356c966ab56803e8f72e872cf09e943ccc9bc6c720edeab756430e0d6af9fef3d738a67f7a7fa971516fda44429129b2ab0b64849f917b4170a513536cfe0e4680c6fbec2b10febbca790fba28c46952485f4ed9c33475759c963ec528f9577d225d179e79b5d711c0573a49451cb91ca1e1e560fd7d01084485b8ed285d58b557bd2364f13a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338bed18e02dc67fdba07d7b953f93972094ce3bc7c1f764d7bd1fc6f42652a940bb785b8941d6337e5f9c9f1d740785669653522bfa2b620d5deba6a7770e65c296778156de627de7bd00d4c40638929daa20d7b9215634ac2a22c564e6386cad5f3e7acaa4ed72d8a0d5f247fe8dc6a1fac7cf8ac7a99d0ce/29/1920x1080_4716800/index.m3u8
+#EXTINF:-1 group-title="Music",Trace Brazuca
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/cb573d1e786c649098cb3d78d1f84582847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f9b45e168b6df3b7014ac62c43fa83439c8001b285825e83178471f817cc92f6dad31380e4275293748ac48f46581fb8b53bfae848a5ce88683595705a347437c980e331caa1e43d2473fbfacab16cfe69a3e1c76a8356c966ab56803e8f72e872cf09e943ccc9bc6c720edeab756430e0d6af9fef3d738a67f7a7fa971516fda44429129b2ab0b64849f917b4170a513536cfe0e4680c6fbec2b10febbca790fba28c46952485f4ed9c33475759c963ec528f9577d225d179e79b5d711c0573a49451cb91ca1e1e560fd7d01084485b8ed285d58b557bd2364f13a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338bed18e02dc67fdba07d7b953f93972094ce3bc7c1f764d7bd1fc6f42652a940bb785b8941d6337e5f9c9f1d740785669653522bfa2b620d5deba6a7770e65c296778156de627de7bd00d4c40638929daa20d7b9215634ac2a22c564e6386cad5f3e7acaa4ed62e879db65bf754d0d1c86e617201ba55ce472a/142/1920x1080_4143876/index.m3u8
 
 #EXTINF:-1 group-title="CAMs", tvg-logo="http://www.i.2nz.au/cam.png",Bundaberg (AU)
 https://camera.ezi-web.com.au/stream1.mjpg
