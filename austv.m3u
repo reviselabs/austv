@@ -8,8 +8,6 @@ https://d1k6kax80wecy5.cloudfront.net/WFqZJc/program_mid/stream.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="AU",Angel TV
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelaustralia_all/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="AU", tvg-logo="http://www.i.2nz.au/tickertv.png",Ticker News
-https://vidgyormedia.pc.cdn.bitgravity.com/ticker-origin/live_1080p/chunks.m3u8
 #EXTINF:-1 group-title="AU",The Rugby Network
 https://tripleb-therugbynetwork-1-au.samsung.wurl.tv/f34ea4667b4792ee94118e269109bff8.m3u8
 #EXTINF:-1 group-title="AU",Sky News Now
@@ -29,8 +27,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="US" tvg-logo="http://www.i.2nz.au/radioutv.png",Radio U TV
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Music", tvg-logo="http://www.i.2nz.au/m2o.png",M2O TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
 #EXTINF:-1 group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Trace Latina
