@@ -10,8 +10,6 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelaustralia_all/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="AU",The Rugby Network
 https://tripleb-therugbynetwork-1-au.samsung.wurl.tv/f34ea4667b4792ee94118e269109bff8.m3u8
-#EXTINF:-1 group-title="AU",Sky News Now
-https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 group-title="CAMs", tvg-logo="http://www.i.2nz.au/cam.png",Bundaberg (AU)
 https://camera.ezi-web.com.au/stream1.mjpg
@@ -39,6 +37,10 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
 #EXTINF:-1 group-title="Music",Balle Balle TV
 https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 group-title="Music",Soundcity Africa
+https://stream-us-east-1.getpublica.com/cl/230405cgml4c4l7lmg6853bl3g/1024x576_1763892_0_f.m3u8?i=816_2806
+#EXTINF:-1 group-title="Music",AMusic Africa
+https://stream-us-east-1.getpublica.com/cl/230405cgml5th45pcf6fjo72m0/1280x720_2595381_0_f.m3u8?i=816_2742
 
 #EXTINF:-1 group-title="News", tvg-logo="http://www.i.2nz.au/ndtv.png",NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@5.m3u8
@@ -46,3 +48,10 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_48
 https://live1.presstv.ir/live/presstv_360p/index.m3u8
 #EXTINF:-1 group-title="News", tvg-logo="http://www.i.2nz.au/rtnews.png",RT News
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/chunklist_b4128000.m3u8
+#EXTINF:-1 group-title="News",Sky News Now Australia
+https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="News",Ticker News Australia
+https://stream-us-east-1.getpublica.com/cl/230405cgml83di9v36mcd28bd0/1280x720_2991612_0_f.m3u8?i=816_4327
+#EXTINF:-1 group-title="News",Africa News English
+https://stream-us-east-1.getpublica.com/cl/230405cgml72k6op8c2ogmsuqg/1280x720_3337522_0_f.m3u8?i=816_2736
+
