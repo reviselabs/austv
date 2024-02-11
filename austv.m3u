@@ -1,57 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="AU" tvg-logo="http://www.i.2nz.au/c31.png",C31 Melbourne
-https://d1k6kax80wecy5.cloudfront.net/RLnAKY/program_mid/stream.m3u8
-#EXTINF:-1 group-title="AU" tvg-logo="http://www.i.2nz.au/c44.png",C44 Adelaide
-https://d1k6kax80wecy5.cloudfront.net/WFqZJc/program_mid/stream.m3u8
-#EXTINF:-1 group-title="AU",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="AU",Angel TV
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelaustralia_all/chunklist_b1500000.m3u8
-#EXTINF:-1 group-title="AU",The Rugby Network
-https://tripleb-therugbynetwork-1-au.samsung.wurl.tv/f34ea4667b4792ee94118e269109bff8.m3u8
-
-#EXTINF:-1 group-title="CAMs", tvg-logo="http://www.i.2nz.au/cam.png",Bundaberg (AU)
-https://camera.ezi-web.com.au/stream1.mjpg
-
-#EXTINF:-1 group-title="US",Retro TV
-https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="US",Rev'n TV
-https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="US",Heartland Country Music TV
-https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="http://www.i.2nz.au/spirittv.png",Spirit TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="US" tvg-logo="http://www.i.2nz.au/radioutv.png",Radio U TV
-https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Music",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Trace Latina
-https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/cb573d1e786c649098cb3d78d1f84582847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fbe40f43d86af4e7014ac62c43fa83439c8001b3d1d35283438427f346cec7a5888041d3e4275293748ac48f46581fb8b53bfae848a5ce88683595705a347437c980e331caa1e43d2473fbfacab16cfe69a3e1c76a8356c966ab56803e8f72e872cf09e943ccc9bc6c720edeab756430e0d6af9fef3d738a67f7a7fa971516fda44429129b2ab0b64849f917b4170a513536cfe0e4680c6fbec2b10febbca790fba28c46952485f4ed9c33475759c963ec528f9577d225d179e79b5d711c0573a49451cb91ca1e1e560fd7d01084485b8ed285d58b557bd2364f13a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338bed18e02dc67fdba07d7b953f93972094ce3bc7c1f764d7bd1fc6f42652a940bb785b8941d6337e5f9c9f1d740785669653522bfa2b620d5deba6a7770e65c296778156de627de7bd00d4c40638929daa20d7b9215634ac2a22c564e6386cad5f3e7acaa4ed72d8a0d5f247fe8dc6a1fac7cf8ac7a99d0ce/29/1920x1080_4716800/index.m3u8
-#EXTINF:-1 group-title=Music,Trace Brazuca
-https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/cb573d1e786c649098cb3d78d1f84582847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f9b45e168b6df3b7014ac62c43fa83439c8001b285825e83178471f817cc92f6dad31380e4275293748ac48f46581fb8b53bfae848a5ce88683595705a347437c980e331caa1e43d2473fbfacab16cfe69a3e1c76a8356c966ab56803e8f72e872cf09e943ccc9bc6c720edeab756430e0d6af9fef3d738a67f7a7fa971516fda44429129b2ab0b64849f917b4170a513536cfe0e4680c6fbec2b10febbca790fba28c46952485f4ed9c33475759c963ec528f9577d225d179e79b5d711c0573a49451cb91ca1e1e560fd7d01084485b8ed285d58b557bd2364f13a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338bed18e02dc67fdba07d7b953f93972094ce3bc7c1f764d7bd1fc6f42652a940bb785b8941d6337e5f9c9f1d740785669653522bfa2b620d5deba6a7770e65c296778156de627de7bd00d4c40638929daa20d7b9215634ac2a22c564e6386cad5f3e7acaa4ed62e879db65bf754d0d1c86e617201ba55ce472a/142/1920x1080_4143876/index.m3u8
-#EXTINF:-1 group-title="Music", tvg-logo="http://www.i.2nz.au/radio538.png",Radio 538 TV
-https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
-#EXTINF:-1 group-title="Music",QMusic NL
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
-#EXTINF:-1 group-title="Music",Balle Balle TV
-https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1 group-title="Music",Soundcity Africa
-https://stream-us-east-1.getpublica.com/cl/230405cgml4c4l7lmg6853bl3g/1024x576_1763892_0_f.m3u8?i=816_2806
-#EXTINF:-1 group-title="Music",AMusic Africa
-https://stream-us-east-1.getpublica.com/cl/230405cgml5th45pcf6fjo72m0/1280x720_2595381_0_f.m3u8?i=816_2742
-
-#EXTINF:-1 group-title="News", tvg-logo="http://www.i.2nz.au/ndtv.png",NDTV
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@5.m3u8
-#EXTINF:-1 group-title="News", tvg-logo="http://www.i.2nz.au/presstv.png",Press TV
-https://live1.presstv.ir/live/presstv_360p/index.m3u8
-#EXTINF:-1 group-title="News", tvg-logo="http://www.i.2nz.au/rtnews.png",RT News
-https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/chunklist_b4128000.m3u8
-#EXTINF:-1 group-title="News",Sky News Now Australia
-https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="News",Ticker News Australia
-https://stream-us-east-1.getpublica.com/cl/230405cgml83di9v36mcd28bd0/1280x720_2991612_0_f.m3u8?i=816_4327
-#EXTINF:-1 group-title="News",Africa News English
-https://stream-us-east-1.getpublica.com/cl/230405cgml72k6op8c2ogmsuqg/1280x720_3337522_0_f.m3u8?i=816_2736
-
+#EXTINF:-1 group-title="Palestine",Musawa Channel
+https://pbc.furrera.ps/musawahd/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Palestine",Falastini TV
+https://rp.tactivemedia.com/falastinitv/live/chunks.m3u8
+#EXTINF:-1 group-title="Palestine",Palestine Today
+https://live.paltodaytv.com/paltv/live/chunklist.m3u8
