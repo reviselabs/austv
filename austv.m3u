@@ -1,8 +1,58 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="AU" tvg-logo="http://www.i.2nz.au/c31.png",C31 Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/program_mid/stream.m3u8
+#EXTINF:-1 group-title="AU" tvg-logo="http://www.i.2nz.au/c44.png",C44 Adelaide
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/program_mid/stream.m3u8
+#EXTINF:-1 group-title="AU",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="AU",2GB
+https://2gblive.akamaized.net/hls/live/2033805/2GB/2GB1080P/chunklist.m3u8
+#EXTINF:-1 group-title="AU",3AW
+https://3awlive.akamaized.net/hls/live/2032295/3AW/3AW1080P/chunklist.m3u8
+
+#EXTINF:-1 group-title="US" tvg-logo="http://www.i.2nz.au/spirittv.png",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="US" tvg-logo="http://www.i.2nz.au/radioutv.png",Radio U TV
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Music",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Trace Latina
+https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/cb573d1e786c649098cb3d78d1f84582847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fbe40f43d86af4e7014ac62c43fa83439c8001b3d1d35283438427f346cec7a5888041d3e4275293748ac48f46581fb8b53bfae848a5ce88683595705a347437c980e331caa1e43d2473fbfacab16cfe69a3e1c76a8356c966ab56803e8f72e872cf09e943ccc9bc6c720edeab756430e0d6af9fef3d738a67f7a7fa971516fda44429129b2ab0b64849f917b4170a513536cfe0e4680c6fbec2b10febbca790fba28c46952485f4ed9c33475759c963ec528f9577d225d179e79b5d711c0573a49451cb91ca1e1e560fd7d01084485b8ed285d58b557bd2364f13a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338bed18e02dc67fdba07d7b953f93972094ce3bc7c1f764d7bd1fc6f42652a940bb785b8941d6337e5f9c9f1d740785669653522bfa2b620d5deba6a7770e65c296778156de627de7bd00d4c40638929daa20d7b9215634ac2a22c564e6386cad5f3e7acaa4ed72d8a0d5f247fe8dc6a1fac7cf8ac7a99d0ce/29/1920x1080_4716800/index.m3u8
+#EXTINF:-1 group-title=Music,Trace Brazuca
+https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/cb573d1e786c649098cb3d78d1f84582847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f9b45e168b6df3b7014ac62c43fa83439c8001b285825e83178471f817cc92f6dad31380e4275293748ac48f46581fb8b53bfae848a5ce88683595705a347437c980e331caa1e43d2473fbfacab16cfe69a3e1c76a8356c966ab56803e8f72e872cf09e943ccc9bc6c720edeab756430e0d6af9fef3d738a67f7a7fa971516fda44429129b2ab0b64849f917b4170a513536cfe0e4680c6fbec2b10febbca790fba28c46952485f4ed9c33475759c963ec528f9577d225d179e79b5d711c0573a49451cb91ca1e1e560fd7d01084485b8ed285d58b557bd2364f13a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338bed18e02dc67fdba07d7b953f93972094ce3bc7c1f764d7bd1fc6f42652a940bb785b8941d6337e5f9c9f1d740785669653522bfa2b620d5deba6a7770e65c296778156de627de7bd00d4c40638929daa20d7b9215634ac2a22c564e6386cad5f3e7acaa4ed62e879db65bf754d0d1c86e617201ba55ce472a/142/1920x1080_4143876/index.m3u8
+#EXTINF:-1 group-title="Music", tvg-logo="http://www.i.2nz.au/radio538.png",Radio 538 TV
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+#EXTINF:-1 group-title="Music",QMusic NL
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
+#EXTINF:-1 group-title="Music",Balle Balle TV
+https://mcncdndigital.com/balleballetv/index.m3u8
+
+#EXTINF:-1 group-title="France",CARAC 1
+https://edge19.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
+#EXTINF:-1 group-title="France",CARAC 2
+https://edge16.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1 group-title="France",CARAC 3
+https://edge20.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+#EXTINF:-1 group-title="France",CARAC 4
+https://edge21.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
+
+#EXTINF:-1 group-title="News", tvg-logo="http://www.i.2nz.au/presstv.png",Press TV
+https://hugh.cdn.rumble.cloud/live/ol95fwjc/slot-16/6uac-jhw6/chunklist.m3u8
+#EXTINF:-1 group-title="News", tvg-logo="http://www.i.2nz.au/rtnews.png",RT News
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/chunklist_b4128000.m3u8
+#EXTINF:-1 group-title="News",Ticker News Australia
+https://amg01486-tickernews-tickernewsweb-ono-oda6t.amagi.tv/playlist/amg01486-tickernews-tickernewsweb-ono/cb573d18786c608d84cb3b62cef748829e7b3dcb0e6c886470af4a9765d96208d6e5af87b208b7634ce6419a34567d2c0c34db66bd6c69d7df7ac7503113106d8ae9f23b85cc755ce0a3566e35b679194ffd0805c85e2b46f4c556488934be7c4534ed0a65597bcd9e01ef290f909f0b897e378bb3dd7f396d390ec90c1fbcbf5ba0f8ff5e43ca78a5b34d1e937b11b29f11c1854da681d50ecb5e8f74f81180c3f28cd111d7819230fb50e46e7f32447c9d93379aca2fdab0f05b1cac5d09653b6acb86c98a24588143534e8a93a1d557da23e2a806a45f1a9e5ad925f5318e78e408b7f171b3b9b4cd477e2cb6c8290d4dcad785bad714109859d687b3a1191098f2073646d97de72c2a35958fa77eeef130a69a02a69156301d9ae82ff29cb690a1b788448e20b8ab9ef20f677e4f2521a3628fbf37a343b579acdd5d26585d56dff63faeb4fc6e1c436ca3bf73f14965d3b58a87cc403ada702458fd6edd57001ea05e064ec01dd5bb1f49b60b2fdf42579c5931930ce9aa2087cbb18f341e85f2e661da50c29050ac9c6ca8692f1717a0cd3c4d4c5a7cd3f714615a13f160d4ffebc252362dc9adb794aa462b3829055b1a8ae1fe02f7e4aa1b3826ed7205454b3d32a432bc1ab7f0cf1e54ab3fe6ee60559015353fe7ab365c281efcaa9ea2f7194ed9d705b4e0fe3c2e355062c7534f463c94de053e8cf437447e065f2fc43a5f85fdba3113c8c5d3f04fdb8f70b8396e1d628ac30e4507576a59dbfafa7dfa51f89a11b59a850982bfcd5a68843faa0f0491c3d437b8c48fd34a03d087561a27b8e067fd337c9728857eb78539989145161039774dc0a55deb10ec8ccd8978cc6ce5642b4ac754f7dcefbadd6316c09449383c4015347740792109f78b87354e2ba2ec69b61dd5ea53a8505d7c6a1489cc5308f4871d78b3063e58d7c79adb929b562f9d14b31faf470ca950012b93a919fa93bef680ea4c5c12d6bbae0cf6e1a7b28cee88415a0e7f3b8fce4f5f148971a99466ff658417e39f93ee453e1226597944e2/179/1920x1080_5253600/index.m3u8
+
 #EXTINF:-1 group-title="Palestine",Musawa Channel
 https://pbc.furrera.ps/musawahd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Palestine",Falastini TV
 https://rp.tactivemedia.com/falastinitv/live/chunks.m3u8
 #EXTINF:-1 group-title="Palestine",Palestine Today
 https://live.paltodaytv.com/paltv/live/chunklist.m3u8
+
+#EXTINF:-1 group-title="China",CCTV-5
+https://live.ldntv.cn/cctv5/hd/live.m3u8?_upt=8d3ed9e31707643524
+#EXTINF:-1 group-title="China",CCTV-13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
