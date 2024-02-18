@@ -33,6 +33,8 @@ https://radio10.prd1.talpatvcdn.nl/v1/manifest/8ada1ed2ae3b9c3db6fc5e604cfa78fc7
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
 #EXTINF:-1 group-title="Dutch",Veronica
 https://mediahuis.akamaized.net/clear/veronica/sc-gaFEAQ/v0_index.m3u8
+#EXTINF:-1 group-title="Dutch",NPO 3FM
+https://npo-nl-ams-p13-am3.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MDgzMzcwMTAsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvXC9ub2RybVwvaGxzX3VuZW5jcnlwdGVkXC9ucG8tdnNyLTNcLzBcLzBcLzBcL25wby12c3ItMy5pc21sIiwiY2xpZW50X2lwIjoiMTYzLjUzLjE0NC42OCIsInZpZXdlciI6InZpZXdlciIsInJpZCI6ImNkNjQwNzIifQ.o2_zqw4SNOpuiA_zLoYNpO2ld6GyKBg7ODdeDeeUfv0/live/npo/u_3_4/npo/nodrm/hls_unencrypted/npo-vsr-3/0/0/0/npo-vsr-3.isml/npo-vsr-3-audionl=192000-video=2000000.m3u8
 
 #EXTINF:-1 group-title="France",CARAC 1
 https://edge19.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
